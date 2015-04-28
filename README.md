@@ -1,2 +1,2 @@
 # QSAT
-WIP 
+SAT Quiz game created by Lucas and Jacob
